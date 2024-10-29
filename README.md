@@ -10,15 +10,22 @@ Time spent: **0.5** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [ X ] Users are see a screen with three labels and a button
+- [ X ] Tapping the button changes the screen color to a random color
 
 ## Additional Features
 
-- [ ] Users can see the image of the author and an extra button
-- [ ] Tapping the button changes the text color to a random color
+- [ X ] Users can see the image of the author and an extra button
+- [ X ] Tapping the button changes the text color to a random color
 
 ## Video Walkthrough
+<div>
+    <a href="https://www.loom.com/share/f397c6388cb94d7181f6fc8eefe583b3">
+    </a>
+    <a href="https://www.loom.com/share/f397c6388cb94d7181f6fc8eefe583b3">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f397c6388cb94d7181f6fc8eefe583b3-3da8377ea2ce6b66-full-play.gif">
+    </a>
+  </div>
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
 
